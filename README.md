@@ -11,7 +11,7 @@ Makine öğrenmesi teknikleri kullanılarak, bir otomobilin teknik özelliklerin
 - **Toplam Gözlem Sayısı**: 398
 - **Toplam Özellik Sayısı**: 8 giriş değişkeni + 1 hedef değişken (MPG)
 
-### 📌 Değişkenler:
+###  Değişkenler:
 
 | Değişken        | Açıklama                                           |
 |------------------|----------------------------------------------------|
